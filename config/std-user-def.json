@@ -1,0 +1,13 @@
+{
+    "FirstName": "John",
+    "LastName": "Cena",
+    "Email": "brian.triplett@ncino.com",
+    "Alias": "jcena",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "Standard Platform User",
+    "permsets": ["MyPermSet"],
+    "generatePassword": true
+}
